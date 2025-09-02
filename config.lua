@@ -1,5 +1,6 @@
 Config = {}
 
+
 Config.DrawMarker = true
 Config.MarkerType = 1
 Config.MarkerScale = { x = 1.0, y = 1.0, z = 1.0 }
@@ -16,5 +17,6 @@ Config.Floors = {
 
 Config.ElevatorButtons = {
     { name = "BOUTON_EXT", coords = vector3(-267.0, -962.0, 31.0) },
-    { name = "BOUTON_INT", coords = vector3(-267.0, -962.0, 41.0) }
+    { name = "BOUTON_INT_1", coords = vector3(-267.0, -962.0, 41.0) },
+    { name = "BOUTON_INT_2", coords = vector3(-267.0, -962.0, 51.0) }
 }
